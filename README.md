@@ -198,6 +198,7 @@ Quiz microservice sends these messages:
 * Quiz started
 * Question answered
 * Quiz completed
+
 Any other microservice can listen these messages to show the real-time tracking information.
 
 |Quiz|       
